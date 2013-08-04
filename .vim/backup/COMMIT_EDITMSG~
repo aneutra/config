@@ -1,0 +1,72 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	modified:   .bashrc
+#	modified:   .vimrc
+#
+# Changes not staged for commit:
+#   (use "git add <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	modified:   .vim/backup/.Xresources~
+#	modified:   .vim/backup/.bashrc~
+#	modified:   .vim/backup/.vimrc~
+#	modified:   .vim/backup/.xinitrc~
+#	modified:   .vim/backup/COMMIT_EDITMSG~
+#	modified:   .vim/backup/capsmod4~
+#	modified:   .vim/backup/config~
+#	modified:   .vim/backup/encode.c~
+#	modified:   .vim/backup/logind.conf~
+#	modified:   .vim/backup/main.c~
+#	modified:   .vim/backup/rc.lua~
+#	modified:   .vim/backup/theme.lua~
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	.config/Bitcoin/
+#	.config/Thunar/
+#	.config/Trolltech.conf
+#	.config/alsi/
+#	.config/autostart/
+#	.config/chromium/
+#	.config/dconf/
+#	.config/deluge/
+#	.config/emelfm2/
+#	.config/enchant/
+#	.config/epiphany/
+#	.config/gedit/
+#	.config/geeqie/
+#	.config/gnome-control-center/
+#	.config/gtk-2.0/
+#	.config/gtk-3.0/
+#	.config/hotkeys/
+#	.config/ibus/
+#	.config/libreoffice/
+#	.config/menus/
+#	.config/nautilus/
+#	.config/pulse/
+#	.config/stetic/
+#	.config/synapse/
+#	.config/terminator/
+#	.config/tint2/
+#	.config/totem/
+#	.config/user-dirs.dirs
+#	.config/user-dirs.locale
+#	.config/vlc/
+#	.config/volti/
+#	.config/xbuild/
+#	.config/xfburn/
+#	.config/xfce4-dict/
+#	.config/xfce4/
+#	.minecraft/
+#	.vim/autoload/smooth_scroll.vim
+#	.vim/backup/home~
+#	.vim/backup/libao.conf~
+#	.vim/backup/logout~
+#	.vim/backup/rot13.c~
+#	.vim/backup/wlp2s0-NETGEAR~
